@@ -1,0 +1,158 @@
+
+body {
+  margin: 0;
+  width: 25%;
+  background-color: red;
+  padding: 0px;
+  margin: 5em auto;
+  color: white;  
+  height: 22em;
+  
+  border: 0.2em solid black;
+ border-radius: 1.5em;
+ 
+}
+
+html {
+  font-family: 'Helvetica neue', Arial, 'sans serif';
+  font-size: 10px;
+  background-color: #ccc;
+}
+.card article img{
+width: 109px;
+float: right;
+color: white;
+
+}
+
+
+.mo{
+background: rgba(0,0,0,0.3);
+
+}
+
+.oday{
+  
+  font-size: 12px;
+  background: rgba(0,0,0,0.1);
+  margin: 10px;
+}
+.card footer{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+  color: black;
+
+}
+.card header{
+color: black;
+font-family: Arial, sans-serif;
+font-style: bold;
+font-size: 15px;
+text-align: left;
+text-indent: 10px;
+
+}
+/* Selectors to be matched up with rulesets */
+
+.card article img
+.card footer
+.card header
+.card
+
+/* Rulesets to be matched up with selectors */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
